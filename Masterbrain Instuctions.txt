@@ -1,0 +1,21 @@
+This game follows the standard Mastermind instructions. 
+
+A sequence containing 4 colors ('pegs') is randomly generated and hidden from the
+player. Colors may repeat.
+
+The object is to guess the sequence. Enter your guess using the letter that represent each
+peg (provided at the top of the window).
+
+Your guess will be displayed. To the right of your guess will be displayed red
+and white squares. 
+
+A white square indicates that a peg you chose is in the sequence but is not in the correct 
+position. One white square will be displayed for each peg meeting this condition.
+
+A red square indicates that a peg is both in the sequence and in the correct position. 
+One red square will be displayed for each peg meeting this condition.
+
+Note that the posistion of the squares is NOT indicative of the posistion of the peg. 
+All red squares are displayed first, followed by all white squares.
+
+You have eight chances to guess the correct sequence. Good luck.

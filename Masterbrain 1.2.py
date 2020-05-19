@@ -32,6 +32,7 @@ def Instructions():
     All red squares are displayed first, followed by all white squares.\n
     You have ten chances to guess the correct sequence. Good luck.''')
 
+#usually make a comment for function
 def TitleBlock():
     # Title block, peg colors and corresponding letters displayed at the top of
         # each game
